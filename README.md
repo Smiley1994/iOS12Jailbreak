@@ -33,7 +33,7 @@ https://github.com/nabla-c0d3/ssl-kill-switch2/releases  下载 .deb 文件
 3.PreferenceLoader
 
 4.将 .deb 文件 拷贝到 已经越狱的 iPhone 里 
-  scp  ***.deb root@192.***.*.**:/var/root/sslKillSwitch2
+  scp  ***.deb root@192.***.*.**:/var/root/sslKillSwitch2 （同一路由下）
 
 5.通过 终端 ssh root@192.***.*.**  进入iPhone 目录 执行 以下命令行。
   （ 链接Wi-Fi 查看 当前IP地址 ， 默认密码 ： alpine）
